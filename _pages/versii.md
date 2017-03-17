@@ -1,0 +1,125 @@
+---
+ID: 100
+post_title: Версии
+author: Dsqwared
+post_date: 2013-04-01 22:01:13
+post_excerpt: ""
+layout: page
+permalink: https://pfy.in.ua/liqpay/versii/
+published: true
+slide_template:
+  - default
+mfn-post-layout:
+  - left-sidebar
+mfn-post-hide-content:
+  - "1"
+mfn-post-custom-layout:
+  - "0"
+mfn-post-slider:
+  - "0"
+mfn-post-slider-layer:
+  - "0"
+mfn-post-menu:
+  - "0"
+mfn-post-one-page:
+  - "0"
+mfn-post-hide-title:
+  - "0"
+mfn-post-remove-padding:
+  - "0"
+vc_teaser:
+  - 'a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}'
+mfn-post-sidebar:
+  - "0"
+mfn-post-sidebar2:
+  - "0"
+mfn-page-items:
+  - >
+    YToxOntpOjA7YToyOntzOjQ6ImF0dHIiO2E6MTc6e3M6NToidGl0bGUiO3M6MDoiIjtzOjg6ImJnX2ltYWdlIjtzOjA6IiI7czoxMToiYmdfcG9zaXRpb24iO3M6MjI6Im5vLXJlcGVhdDtjZW50ZXIgdG9wOzsiO3M6ODoiYmdfY29sb3IiO3M6MDoiIjtzOjc6ImRpdmlkZXIiO3M6MDoiIjtzOjEyOiJiZ192aWRlb19tcDQiO3M6MDoiIjtzOjEyOiJiZ192aWRlb19vZ3YiO3M6MDoiIjtzOjY6ImxheW91dCI7czoxMDoibm8tc2lkZWJhciI7czo3OiJzaWRlYmFyIjtzOjE6IjAiO3M6MTE6InBhZGRpbmdfdG9wIjtzOjE6IjAiO3M6MTQ6InBhZGRpbmdfYm90dG9tIjtzOjE6IjAiO3M6MTM6ImNvbHVtbl9tYXJnaW4iO3M6MDoiIjtzOjU6InN0eWxlIjtzOjA6IiI7czoxMDoibmF2aWdhdGlvbiI7czowOiIiO3M6NToiY2xhc3MiO3M6MDoiIjtzOjEwOiJzZWN0aW9uX2lkIjtzOjA6IiI7czoxMDoidmlzaWJpbGl0eSI7czowOiIiO31zOjU6Iml0ZW1zIjthOjE6e2k6MDthOjM6e3M6NDoidHlwZSI7czozOiJmYXEiO3M6NDoic2l6ZSI7czozOiIxLzEiO3M6NjoiZmllbGRzIjthOjY6e3M6NToidGl0bGUiO3M6MDoiIjtzOjU6ImNvdW50IjtzOjI6IjExIjtzOjQ6InRhYnMiO2E6MTE6e2k6MDthOjI6e3M6NToidGl0bGUiO3M6MTY6ItCS0LXRgNGB0LjRjyAyLjEiO3M6NzoiY29udGVudCI7czoyMjc6IjEuINCf0LvQsNCz0LjQvSDQv9C10YDQtdGI0LXQuyDQvdCwINC90L7QstGD0Y4g0LLQtdGA0YHQuNGOICBMaXFQYXkgQVBJIDMuMDxiciAvPg0KMi4g0JjQvdGC0LXQs9GA0LDRhtC40Y8g0LIgV29vY29tbWVyY2Ug0LrQsNC6INC/0LvQsNGC0LXQttC90YvQuSDRiNC70Y7Qty48YnIgLz4NCjMuINCY0YHQv9GA0LDQstC70LXQvdGLINC90LXQt9C90LDRh9C40YLQtdC70YzQvdGL0LUg0LHQsNCz0LguIjt9aToxO2E6Mjp7czo1OiJ0aXRsZSI7czoxNjoi0JLQtdGA0YHQuNGPIDEuNSI7czo3OiJjb250ZW50IjtzOjExMzM6IjEuINCf0LvQsNCz0LjQvSDQv9C10YDQtdGI0LXQuyDQvdCwINC90L7QstGD0Y4g0LLQtdGA0YHQuNGOIEFQSSAyLjAuPGJyIC8+DQoyLiDQmtCw0Log0Lgg0L7QsdC10YnQsNC7LCDQuNC30LHQsNCy0LjQu9GB0Y8g0L3QsNC60L7QvdC10YYg0YLQviDQvtGCINC/0LvQsNCz0LjQvdCwIEV4ZWMtUGhwLCDRgtC10L/QtdGA0Ywg0L7QvSDQvdC1INC90YPQttC10L0hPGJyIC8+DQozLiDQn9C+0LvQvdCw0Y8g0L/QvtC00LTQtdGA0LbQutCwINC60LjRgNC40LvQu9C40YbRiyE8YnIgLz4NCjQuINCSINC90LDRgdGC0YDQvtC50LrQsNGFINC00L7QsdCw0LLQu9C10L3QsCDQstC+0LfQvNC+0LbQvdC+0YHRgtGMINCy0YvQsdC+0YDQsCDRj9C30YvQutCwINC40L3RgtC10YDRhNC10LnRgdCwINC90LAg0YHRgtC+0YDQvtC90LUg0L/Qu9Cw0YLQtdC20L3QvtC5INGB0LjRgdGC0LXQvNGLIExpcVBheS48YnIgLz4NCjUuINCSINC90LDRgdGC0YDQvtC50LrQsNGFINC00L7QsdCw0LLQu9C10L3QsCDQstC+0LfQvNC+0LbQvdC+0YHRgtGMINC40LfQvNC10L3QtdC90LjRjyDRgdGC0YDQsNC90LjRhtGLLCDQvdCwINC60L7RgtC+0YDRg9GOINC/0LXRgNC10LnQtNC10YIg0L7Qv9C70LDRgtC40LLRiNC40Lkg0LrQu9C40LXQvdGCLjxiciAvPg0KNi4g0J/QtdGA0LXRgNCw0LHQvtGC0LDQvSDRgtC10YHRgtC+0LLRi9C5INGA0LXQttC40LwuINCi0LXQv9C10YDRjCDQv9GA0Lgg0LLQutC70Y7Rh9C10L3QuNC4INC10LPQviDQsiDQvdCw0YHRgtGA0L7QudC60LDRhSwg0L7Qv9C70LDRgtCwINC/0YDQvtGF0L7QtNC40YIsINC90L4g0LTQtdC90YzQs9C4INC90LUg0YHQv9C40YHRi9Cy0LDRjtGC0YHRjyEgKNC90LUg0LfQsNCx0YvQstCw0LnRgtC1INC+0YLQutC70Y7Rh9Cw0YLRjCkg0L/RgNC4INC+0L/Qu9Cw0YLQtSDQsiDRjdGC0L7QvCDRgNC10LbQuNC80LUg0YHRgtCw0YLRg9GBINC/0LvQsNGC0LXQttCwINCyINC20YPRgNC90LDQu9C1INCx0YPQtNC10YIg0L7RgtC+0LHRgNCw0LbQtdC9INC60LDQuiAic2FuZGJveCIuPGJyIC8+DQo3LiDQmNGB0L/RgNCw0LLQu9C10L3RiyDQvdC10YHQutC+0LvRjNC60L4gItCx0LDQs9C+0LIiINCyINGA0LDQsdC+0YLQtSDRgdC+INGB0LrQuNC00LrQsNC80LguIjt9aToyO2E6Mjp7czo1OiJ0aXRsZSI7czoxNjoi0JLQtdGA0YHQuNGPIDEuNCI7czo3OiJjb250ZW50IjtzOjEyNjQ6IjEuINCa0LDQuiDQstGLINC30L3QsNC10YLQtSwg0J/RgNC40LLQsNGC0JHQsNC90Log0LIg0YHQstC+0LXQuSDQv9C70LDRgtC10LbQvdC+0Lkg0YHQuNGB0YLQtdC80LUgTGlxUGF5LCDRgdC90LjQvNCw0LXRgiDQutC+0LzQuNGB0YHQuNGOINGBINCy0LvQsNC00LXQu9GM0YbQtdCyINC80LDQs9Cw0LfQuNC90L7Qsiwg0LAg0L3QtSDRgSDQutC70LjQtdC90YLQvtCyLiDQkiDRgdCy0Y/Qt9C4INGBINC80L3QvtCz0L7Rh9C40YHQu9C10L3QvdGL0LzQuCDQv9GA0L7RgdGM0LHQsNC80Lgg0LTQvtCx0LDQstC40YLRjCDQstC+0LfQvNC+0LbQvdC+0YHRgtGMINCy0LfQuNC80LDQvdC40Y8g0LrQvtC80LjRgdGB0LjQuCDRgSDQutC70LjQtdC90YLQvtCyLCAgINCx0YvQu9CwINC90LDQutC+0L3QtdGGINC00L7QsdCw0LLQu9C10L3QsCDRjdGC0LAg0LLQvtC30LzQvtC20L3QvtGB0YLRjCDQsiDQktC10YDRgdC40Y4gMS40LCAo0LTQsNC90L3Rg9GOINCy0L7Qt9C80L7QttC90L7RgdGC0Ywg0LzQvtC20L3QviDQvdCw0LnRgtC4INCyINC90LDRgdGC0YDQvtC50LrQsNGFINC/0LvQsNCz0LjQvdCwICkuPGJyIC8+DQoyLiDQmNGB0L/RgNCw0LLQu9C10L3RiyDQvNC10LvQutC40LUg0L3QtdC00L7Rh9C10YLRiy48YnIgLz4NCjIuMSDQlNCy0LAg0YDQsNC30LAg0L/QuNGB0LDQu9Cw0YHRjCDRhNGA0LDQt9CwIMKr0JjQtNC10YIg0L7QsdGA0LDQsdC+0YLQutCwINC00LDQvdC90YvRhcK7INC/0L7RgdC70LUg0L3QsNC20LDRgtC40Y8g0LrQvdC+0L/QutC4INC+0L/Qu9Cw0YLQuNGC0YwuPGJyIC8+DQoyLjIg0JHRi9C70LAg0LjRgdC/0YDQsNCy0LvQtdC90LAg0YDQsNCx0L7RgtCwINGBINGA0LDQt9C90YvQvNC4INGB0L/QvtGB0L7QsdCw0LzQuCDQvtC/0LvQsNGC0YsgKNC/0YDQuCDQstGL0LHQvtGA0LUg0LjRhSDQsiDQvdCw0YHRgtGA0L7QudC60LUg0L/Qu9Cw0LPQuNC90LApPGJyIC8+DQozLiDQlNC70Y8g0YPQtNC+0LHRgdGC0LLQsCDQv9C+0LjRgdC60LAg0L7Qv9C70LDRgtC40LLRiNC40YUg0LrQu9C40LXQvdGC0L7QsiDQsiDQv9C+0YfRgtC+0LLQvtC8INGP0YnQuNC60LUsINC/0L7RgdC70LUg0L7Qv9C70LDRgtGLINC60LvQuNC10L3RgtC+0LwsINCw0LTQvNC40L3QuNGB0YLRgNCw0YLQvtGA0YMg0YHQsNC50YLQsCDQv9GA0LjQtNC10YIg0L/QuNGB0YzQvNC+LCDQsiDRgtC10LzQtSDQutC+0YLQvtGA0L7Qs9C+INCx0YPQtNC10YIg0YPQutCw0LfQsNC9INGB0YLQsNGC0YPRgSDQv9C70LDRgtC10LbQsC4iO31pOjM7YToyOntzOjU6InRpdGxlIjtzOjE4OiLQktC10YDRgdC40Y8gMS4zLjQiO3M6NzoiY29udGVudCI7czoyOTY6IjEuINCU0L7QsdCw0LLQu9C10L0g0L/Rg9C90LrRgiDQvNC10L3RjiDCq9Ch0LrQuNC00LrQuCDQtNC70Y8g0L/QvtC70YzQt9C+0LLQsNGC0LXQu9C10LnCqy4g0KLQtdC/0LXRgNGMINCy0Ysg0LzQvtC20LXRgtC1INC/0LXRgNGB0L7QvdCw0LvRjNC90L4g0LTQu9GPINC60LDQttC00L7Qs9C+INC30LDRgNC10LPQuNGB0YLRgNC40YDQvtCy0LDQvdC90L7Qs9C+INC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRjywg0LLRi9GB0YLQsNCy0LvRj9GC0Ywg0LjQvdC00LjQstC40LTRg9Cw0LvRjNC90YvQtSDRgdC60LjQtNC60LguIjt9aTo0O2E6Mjp7czo1OiJ0aXRsZSI7czoxODoi0JLQtdGA0YHQuNGPIDEuMy4zIjtzOjc6ImNvbnRlbnQiO3M6MzI0OiIxLiDQlNC+0LHQsNCy0LvQtdC9INC00LXQvNC+INGA0LXQttC40Lwg0L/QvtC60YPQv9C60Lgg0YLQvtCy0LDRgNCwL9GD0YHQu9GD0LPQuC4g0KLQtdC/0LXRgNGMINCy0Ysg0LzQvtC20LXRgtC1INGD0LLQuNC00LXRgtGMLCDRh9GC0L4g0YPQstC40LTQuNGCINC60LvQuNC10L3RgiDQv9GB0L7Qu9C1INC+0L/Qu9Cw0YLRiyDQstCw0YjQtdCz0L4o0LjRhSkg0YLQvtCy0LDRgNCwL9GD0YHQu9GD0LPQuCAo0JTQsNC90L3Ri9C5INGA0LXQttC40Lwg0LzQvtC20L3QviDQstC60LvRjtGH0LjRgtGMINCyINC90LDRgdGC0YDQvtC50LrQsNGFINC/0LvQsNCz0LjQvdCwKS4iO31pOjU7YToyOntzOjU6InRpdGxlIjtzOjE4OiLQktC10YDRgdC40Y8gMS4zLjIiO3M6NzoiY29udGVudCI7czoxNjI6IjEuINCY0YHQv9GA0LDQstC70LXQvdGLINC90LXQt9C90LDRh9C40YLQtdC70YzQvdGL0LUg0LHQsNCz0LguDQoyLiDQkiDQs9C10L3QtdGA0LjRgNC+0LLQsNC90L3Rg9GOINGE0L7RgNC80YMg0LTQvtCx0LDQstC70LXQvdC+INC/0L7Qu9C1INC00LvRjyDQstCy0L7QtNCwIGVtYWlsLiI7fWk6NjthOjI6e3M6NToidGl0bGUiO3M6MTg6ItCS0LXRgNGB0LjRjyAxLjMuMSI7czo3OiJjb250ZW50IjtzOjE5MjoiMS4g0J/QvtGB0LvQtSDRg9C00LDRh9C90L7QuSDQv9C+0LrRg9C/0LrQuCDRgtC+0LLQsNGA0LAgKNGE0LDQudC70LApLCDQv9C+0LrRg9C/0LDRgtC10LvRjCDQv9C+0LvRg9GH0LjRgiDQv9C40YHRjNC80L4g0YEg0L/RgNC40LrRgNC10L/Qu9C10L3QvdGL0Lwg0Log0L3QtdC80YMg0YLQvtCy0LDRgNC+0LwgKNGE0LDQudC70L7QvCkuIjt9aTo3O2E6Mjp7czo1OiJ0aXRsZSI7czoxNjoi0JLQtdGA0YHQuNGPIDEuMyI7czo3OiJjb250ZW50IjtzOjEyNjU6IjEuINCj0LvRg9GH0YjQtdC9INC00LjQt9Cw0LnQvSDQsNC00LzQuNC9INC/0LDQvdC10LvQuCDQuCDQvtGC0YfQtdGC0LAg0L7QsSDQvtC/0LvQsNGC0LUuPGJyIC8+DQoyLiDQkiDQttGD0YDQvdCw0Lsg0L7Qv9C70LDRgtGLINC00L7QsdCw0LLQu9C10L0g0L/QvtC40YHQuiDQv9C+INC00LDRgtC1LjxiciAvPg0KMy4g0JIg0LDQtNC80LjQvSDQv9Cw0L3QtdC70Ywg0LTQvtCx0LDQstC70LXQvSDRgNCw0LfQtNC10LsgwqvQk9C10L3QtdGA0LDRhtC40Y8g0LrQvdC+0L/QutC4wrsgKNGC0LXQv9C10YDRjCDRgyDQktCw0YEg0LXRgdGC0Ywg0LLQvtC30LzQvtC20L3QvtGB0YLRjCDQs9C10L3QtdGA0LjRgNC+0LLQsNGC0Ywg0LrQvdC+0L/QutC4INC4INCy0YHRgtCw0LLQu9GP0YLRjCDQtdC1INCyINC70Y7QsdC+0LUg0LzQtdGB0YLQviDRgdCw0LnRgtCwLCDRgdGC0YDQsNC90LjRhtGLINC40LvQuCDRgdGC0LDRgtGM0LguINCc0L7QttC90L4g0YLQsNC6LdC20LUg0L/RgNC40LLRj9C30LDRgtGMINC60L3QvtC/0LrRgyDQuiDRgtC+0LLQsNGA0YMsINC4INC/0L7RgdC70LUg0L7Qv9C70LDRgtGLINC60LvQuNC10L3RgiDRgdC80L7QttC10YIg0YHQutCw0YfQsNGC0Ywg0YTQsNC50LspPGJyIC8+DQo0LiAqINCSINCw0LTQvNC40L0g0L/QsNC90LXQu9GMINC00L7QsdCw0LLQu9C10L0g0YDQsNC30LTQtdC7IMKr0KHQv9C40YHQvtC6INGC0L7QstCw0YDQvtCywrsgKNGC0LXQv9C10YDRjCDQktGLINC80L7QttC10YLQtSDQv9GA0L7QtNCw0LLQsNGC0Ywg0YHQstC+0Lgg0YLQvtCy0LDRgNGLINC/0YDRj9C8INGDINGB0LXQsdGPINC90LAg0YHQsNC50YLQtSk8YnIgLz4NCiog0KTQsNC50LvRiyDQvdC10L7QsdGF0L7QtNC40LzQviDQsNGA0YXQuNCy0LjRgNC+0LLQsNGC0Ywg0LIgKi5yYXIg0LjQu9C4ICouemlwINC90LUg0LHQvtC70LXQtSAyMCDQvNCxLg0KPGJyIC8+DQo1LiDQkNCy0YLQvtC80LDRgtC40YfQtdGB0LrQuCDRg9C00LDQu9GP0Y7RgtGB0Y8g0YHRgtCw0YDRi9C1INC30LDQv9C40YHQuCDQuNC3INCR0JQg0YEg0LLRgNC10LzQtdC90L3Ri9C80Lgg0YHRgdGL0LvQutCw0LzQuCDQtNC70Y8g0LfQsNCz0YDRg9C30LrQuCDRgtC+0LLQsNGA0LAsINC40LfQvNC10L3QuNGC0Ywg0LLRgNC10LzRjyDQktGLINC80L7QttC10YLQtSDQsiDQvdCw0YHRgtGA0L7QudC60LDRhSDQv9GD0L3QutGCIMKr0KHRgNC+0Log0YXRgNCw0L3QtdC90LjRjzrCuyDQv9C+INGD0LzQvtC70YfQsNC90LjRjiAxMCDQvNC40L0uIjt9aTo4O2E6Mjp7czo1OiJ0aXRsZSI7czoxNjoi0JLQtdGA0YHQuNGPIDEuMiI7czo3OiJjb250ZW50IjtzOjU0NDoiMS4g0JIg0L7RgtGH0LXRgiDQtNC+0LHQsNCy0LvQtdC90L4g0LPRgNCw0YTQuNGH0LXRgdC60L7QtSDQvtGC0L7QsdGA0LDQttC10L3QuNC1INC+0L/Qu9Cw0YIuPGJyIC8+DQoxLjEg0JTQvtCx0LDQstC70LXQvdCwINCy0L7Qt9C80L7QttC90L7RgdGC0Ywg0L/QvtC40YHQutCwINC/0L4g0L/QvtC70Y4gwqtPcmRlcl9pZMK7IDxiciAvPg0KMS4yINCU0L7QsdCw0LLQu9C10L0g0YTQuNC70YzRgtGAIMKr0J3QtSDQv9C+0LrQsNC30YvQstCw0YLRjCDQvdC10YPQtNCw0LLRiNC40LXRgdGPINC/0LvQsNGC0LXQttC4wrsgINC4INC60L3QvtC/0LrQsCDCq9Ch0LHRgNC+0YHQuNGC0Ywg0YTQuNC70YzRgtGAINC4INC/0L7QuNGB0LrCuzxiciAvPg0KMi4g0JIg0LzQtdC90Y4gwqvQndCw0YHRgtGA0L7QudC60LDCuyDQtNC+0LHQsNCy0LvQtdC90LAg0LLQvtC30LzQvtC20L3QvtGB0YLRjCDQstGL0LHQvtGA0LAg0LzQtdGC0L7QtNCwINC+0L/Qu9Cw0YLRiyAo0YEg0LrQsNGA0YLRiywg0YEg0YLQtdC70LXRhNC+0L3QsCwg0L3QsNC70LjRh9C90YvQvNC4KSI7fWk6OTthOjI6e3M6NToidGl0bGUiO3M6MTY6ItCS0LXRgNGB0LjRjyAxLjEiO3M6NzoiY29udGVudCI7czo5Mzc6IjEuINCY0YHQv9GA0LDQstC70LXQvdGLINCx0LDQs9C4LjxiciAvPg0KMi4g0JTQvtCx0LDQstC70LXQvSDQv9GD0L3QutGCINC80LXQvdGOIMKr0J7RgtGH0LXRgsK7LiDQotC10L/QtdGA0Ywg0LfQsCDQvtC/0LvQsNGC0LDQvNC4INC80L7Qs9GD0YIg0YHQu9C10LTQuNGC0Ywg0L3QtSDRgtC+0LvRjNC60L4g0LLQu9Cw0LTQtdC70LXRhiDQvNCw0LPQsNC30LjQvdCwINC90L4g0Lgg0LTQvtCy0LXRgNC10L3QvdGL0LUg0LvQuNGG0LAsICDRgi7Qui4g0L3QtdGCINC90LDQtNC+0LHQvdC+0YHRgtC4INC30LDRhdC+0LTQuNGC0Ywg0L3QsCDRgdCw0LnRgiBsaXFwYXkuY29tLiDQlNC+0YHRgtCw0YLQvtGH0L3QviDRgtC+0LvRjNC60L4g0YHQvtC30LTQsNGC0Ywg0L3QsCDRgdCw0LnRgtC1INC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRjyDRgSDQv9GA0LDQstCw0LzQuCDCq9Cg0LXQtNCw0LrRgtC+0YDCuyDQuNC70Lgg0LLRi9GI0LUuPGJyIC8+DQozLiDQkNCy0YLQvtC80LDRgtC40YfQtdGB0LrQvtC1INC30LDQv9C+0LvQvdC10L3QuNC1INC/0L7Qu9GPIMKr0KTQmNCewrsg0LIg0LzQtdC90Y4gwqtCdXkv0J7Qv9C70LDRgtCwwrsg0LjQtyDQv9GA0L7RhNC40LvRjyDQv9C+0LvRjNC30L7QstCw0YLQtdC70Y8uPGJyIC8+DQo0LiDQlNC+0LHQsNCy0LvQtdC90LAg0LLQvtC30LzQvtC20L3QvtGB0YLRjCDQstGL0LHQvtGA0LAg0LLQsNC70Y7RgtGLLjxiciAvPg0KNS4g0KLQtdC/0LXRgNGMINC/0L7Qu9C1IMKr0KTQmNCewrsg0LggwqvQndCw0LfQvdCw0YfQtdC90LjQtSDQv9C70LDRgtC10LbQsMK7INC80L7QttC90L4g0LLQstC+0LTQuNGC0Ywg0LrQuNGA0LjQu9C70LjRhtC10LksICDQv9C70LDQs9C40L0g0LDQstGC0L7QvNCw0YLQuNGH0LXRgdC60Lgg0LTQtdC70LDQtdGCINC/0LXRgNC10LLQvtC0INC90LAg0LvQsNGC0LjQvdC40YbRgy4iO31pOjEwO2E6Mjp7czo1OiJ0aXRsZSI7czoxNzoiINCS0LXRgNGB0LjRjyAxLjAiO3M6NzoiY29udGVudCI7czoyMzI6IjEuINCf0LvQsNCz0LjQvSDQtNC+0LHQsNCy0LvRj9C10YIg0LIg0LDQtNC80LjQvSDQvNC10L3RjiDQv9GD0L3QutGCINC+0L/Qu9Cw0YLRiyDQuCDQvdCw0YHRgtGA0L7QudC60LguPGJyIC8+DQoyLiDQn9C+0YHQu9C1INC+0L/Qu9Cw0YLRiyDQsNC00LzQuNC90LjRgdGC0YDQsNGC0L7RgNGDINC4INC60LvQuNC10L3RgtGDINC/0YDQuNGF0L7QtNC40YIg0L7RgtGH0LXRgiDQvtCxINC+0L/Qu9Cw0YLQtS4iO319czo3OiJvcGVuMXN0IjtzOjE6IjAiO3M6Nzoib3BlbkFsbCI7czoxOiIxIjtzOjc6ImNsYXNzZXMiO3M6MDoiIjt9fX19fQ==
+mfn-page-items-seo:
+  - ""
+---
+[vc_row][vc_column][vc_column_text]<strong>Версия 2.0</strong>
+1. Плагин перешел на новую версию  LiqPay API 3.0
+2. Интеграция в Woocommerce как платежный шлюз.
+3. Исправлены незначительные баги.
+
+<strong>Версия 1.5</strong>
+1. Плагин перешел на новую версию API 2.0.
+2. Как и обещал, избавился наконец то от плагина Exec-Php, теперь он не нужен!
+3. Полная поддержка кириллицы!
+4. В настройках добавлена возможность выбора языка интерфейса на стороне платежной системы LiqPay.
+5. В настройках добавлена возможность изменения страницы, на которую перейдет оплативший клиент.
+6. Переработан тестовый режим. Теперь при включении его в настройках, оплата проходит, но деньги не списываются! (не забывайте отключать) при оплате в этом режиме статус платежа в журнале будет отображен как "sandbox".
+7. Исправлены несколько "багов" в работе со скидками.
+
+<strong>Версия 1.4</strong>
+
+1. Как вы знаете, <strong>ПриватБанк </strong>в своей платежной системе <strong>LiqPay, </strong>снимает комиссию с владельцев магазинов, а не с клиентов. В связи с многочисленными просьбами добавить возможность взимания комиссии с клиентов,   была наконец добавлена эта возможность в <strong>Версию 1.4, (данную возможность можно найти в настройках плагина ).</strong>
+
+2. Исправлены мелкие недочеты.
+
+2.1 Два раза писалась фраза "<b>Идет обработка данных</b>" после нажатия кнопки оплатить.
+
+2.2 Была исправлена работа с разными способами оплаты (при выборе их в настройке плагина)
+
+3. Для удобства поиска оплативших клиентов в почтовом ящике, после оплаты клиентом, администратору сайта придет письмо, в теме которого будет указан статус платежа.
+
+<strong>Версия 1.3.4</strong>
+
+1. Добавлен пункт меню "<em><strong>Скидки для пользователей</strong></em>". Теперь вы можете персонально для каждого зарегистрированного пользователя, выставлять индивидуальные скидки.
+
+<span style="text-decoration: underline;"><strong>Версия 1.3.3</strong></span>
+
+1. Добавлен<strong><em> демо режим</em></strong> покупки товара/услуги. Теперь вы можете увидеть, что увидит клиент псоле оплаты вашего(их) товара/услуги (Данный режим можно включить в настройках плагина).
+
+<span style="text-decoration: underline;"><strong>Версия 1.3.2</strong></span>
+
+1. Исправлены незначительные баги.
+2. В генерированную форму добавлено поле для ввода email.
+
+<span style="text-decoration: underline;"><strong>Версия 1.3.1</strong></span>
+
+1. После удачной покупки товара (файла), покупатель получит письмо с прикрепленным к нему товаром (файлом).
+
+<span style="text-decoration: underline;"><strong>Версия 1.3</strong></span>
+
+1. <strong>Улучшен дизайн</strong> админ панели и отчета об оплате.
+
+2. В журнал оплаты добавлен <strong>поиск по дате</strong>.
+
+3. В админ панель добавлен раздел <strong>"Генерация кнопки"</strong> (теперь у Вас есть возможность генерировать кнопки и вставлять ее в любое место сайта, страницы или статьи. Можно так-же привязать кнопку к товару, и после оплаты клиент сможет скачать файл)
+
+4. <span style="color: #ff0000;">*</span> В админ панель добавлен раздел <strong>"Список товаров"</strong> (теперь Вы можете продавать свои товары прям у себя на сайте)
+
+<span style="color: #ff0000;">* Файлы необходимо архивировать в <strong>*.rar</strong> или <strong>*.zip</strong> не более 20 мб.</span>
+
+5. <strong>Автоматически удаляются старые записи из БД</strong> с временными ссылками для загрузки товара, изменить время Вы можете в настройках пункт "Срок хранения:" по умолчанию 10 мин.
+
+<span style="text-decoration: underline;"><strong>Версия 1.2</strong></span>
+
+1. В отчет добавлено <em><strong>графическое отображение оплат</strong></em>.
+
+1.1 Добавлена возможность поиска по полю <em><strong>"Order_id" </strong></em>
+
+1.2 Добавлен фильтр <em><strong>"Не показывать неудавшиеся платежи" </strong></em><strong> </strong>и кнопка <em><strong>"Сбросить фильтр и поиск"</strong></em>
+
+2. В меню <em><strong>"Настройка"</strong> </em>добавлена возможность выбора метода оплаты <em><strong>(с карты, с телефона, наличными)</strong></em>
+
+<span style="text-decoration: underline;"><strong>Версия 1.1</strong></span>
+
+1. Исправлены баги.
+
+2. Добавлен пункт меню <em><strong>"Отчет"</strong></em>. Теперь за оплатами могут следить не только владелец магазина но и доверенные лица,  т.к. нет надобности заходить на сайт liqpay.com. Достаточно только создать на сайте пользователя с правами <em><strong>"Редактор"</strong></em> или выше.
+
+3. Автоматическое заполнение поля <em><strong>"ФИО"</strong></em> в меню <em><strong>"Buy/Оплата"</strong></em> из профиля пользователя.
+
+4. Добавлена возможность выбора валюты.
+
+5. Теперь поле <em><strong>"ФИО"</strong></em> и<em><strong> "Назначение платежа"</strong></em> можно вводить кириллицей,  плагин автоматически делает перевод на латиницу.
+
+<span style="text-decoration: underline;"><strong> Версия 1.0</strong></span>
+
+1. Плагин добавляет в админ меню пункт оплаты и настройки.
+
+2. После оплаты администратору и клиенту приходит отчет об оплате.[/vc_column_text][/vc_column][/vc_row]
