@@ -110,9 +110,9 @@ Motor Liberia</h4>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Lucía Espinoza, 2666-0016, <a class="texto_rojo" href="mailto:liberia@cafsa.fi.cr">liberia@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+De la entrada principal de Liberia 100 m. norte.</li>
 </ul>
 [/unordered_list][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="692" qode_css_animation=""][vc_column_text]
 <h4>Sucursal
@@ -120,12 +120,12 @@ Automotriz/ NASA</h4>
 [/vc_column_text][unordered_list style="circle" animate="no"]
 <ul>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
- 	<li>Tel: 2666-0016 ext: 5460</li>
- 	<li>Fax: 2666-2695</li>
+ 	<li>Tel: 2523-5043</li>
+ 	<li>Fax: 2523-5023</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Wilser Barquero, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">automotriz@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+La Uruca, contiguo al puente del Río Torres.</li>
 </ul>
 [/unordered_list][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="693" qode_css_animation=""][vc_column_text]
 <h4>Sucursal
@@ -133,12 +133,12 @@ Disitali</h4>
 [/vc_column_text][unordered_list style="circle" animate="no"]
 <ul>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
- 	<li>Tel: 2666-0016 ext: 5460</li>
- 	<li>Fax: 2666-2695</li>
+ 	<li>Tel: 2547-5900</li>
+ 	<li>Fax:</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Wilser Barquero, 2523-5043, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">wbarquero@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+La Uruca, 100 metros este de la plaza de deportes.</li>
 </ul>
 [/unordered_list][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="image-with-toggle"][vc_column_inner width="1/3"][vc_single_image image="660" qode_css_animation=""][vc_column_text]
 <h4>TerraMall</h4>
