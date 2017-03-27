@@ -29,7 +29,8 @@ Lexus</h4>
  	<li>Tel: 4000-5501  ext: 5485</li>
  	<li>Fax: 4000-5555</li>
  	<li>Promotora:
-Hanier Madrigal, 4000-5501 ext 5485, <a class="texto_rojo" href="mailto:lexus@cafsa.fi.cr">lexus@cafsa.fi.cr</a></li>
+Deiby Steller ejecutivo de credito, 4000-5501 ext 5485, <a class="texto_rojo" href="mailto:lexus@cafsa.fi.cr">lexus@cafsa.fi.cr</a>
+Fabian Meza Ejecutivo de LEasing, 4000-5501 ext 5485, <a class="texto_rojo" href="mailto:lexus@cafsa.fi.cr">lexus@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Torre Lexus Avenida Escazú, 1 piso</li>
 </ul>
@@ -55,8 +56,8 @@ Paseo Colón</h4>
  	<li>Tel: 2287-4200 ext: 262-175</li>
  	<li>Fax: 2255-0826</li>
  	<li>Promotora Autos Nuevos:
-Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:nuevospaseocolon@cafsa.fi.cr">nuevospaseocolon@cafsa.fi.cr</a>
-Cristopher Solano, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
+Veronica Bermudez Ejectuiva de credito, 2287-4262, <a class="texto_rojo" href="mailto:nuevospaseocolon@cafsa.fi.cr">nuevospaseocolon@cafsa.fi.cr</a>
+Elvira Barboza Ejecutiva de leasing, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Paseo Colón, calle 34-36.</li>
 </ul>
@@ -69,7 +70,7 @@ Pérez Zeledón</h4>
  	<li>Tel: 2771-0907 ext: 5332</li>
  	<li>Fax: 2772-3064</li>
  	<li>Promotora:
-Elvira Barboza, 2771-0907, <a class="texto_rojo" href="mailto:perezzeledon@cafsa.fi.cr">perezzeledon@cafsa.fi.cr</a></li>
+Elvira Barboda Ejecutiva de credito/leasing, 2771-0907, <a class="texto_rojo" href="mailto:perezzeledon@cafsa.fi.cr">perezzeledon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Plaza Monte General.</li>
 </ul>
@@ -82,8 +83,8 @@ Ciudad Toyota</h4>
  	<li>Tel: 2519-7777 ext: 734</li>
  	<li>Fax: 2518-7778</li>
  	<li>Promotora:
-<a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">Alonso Cervantes, 2519-7734, </a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
-Alonso Cervantes, 2519-7952, </a><a class="texto_rojo" href="mailto:ciudadtoyota@cafsa.fi.cr">ciudadtoyota@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
+<a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">Ejecutivo de credio, 2519-7734, </a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
+Azucena Prado Ejecutiva de leasing, 2519-7952, </a><a class="texto_rojo" href="mailto:ciudadtoyota@cafsa.fi.cr">ciudadtoyota@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
 </a></li>
  	<li>Dirección:
 200 mts hacia este de la Pozuelo, la Uruca.</li>
@@ -97,7 +98,7 @@ San Carlos</h4>
  	<li>Tel: 2460-1638</li>
  	<li>Fax: 2460-6446</li>
  	<li>Promotora:
-Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:sancarlos@cafsa.fi.cr">sancarlos@cafsa.fi.cr</a></li>
+Maria Mendez Ejecutiva de credito / leasing, 2287-4262, <a class="texto_rojo" href="mailto:sancarlos@cafsa.fi.cr">sancarlos@cafsa.fi.cr</a></li>
  	<li>Dirección:
 200 m. sur del parque.</li>
 </ul>
@@ -110,7 +111,7 @@ Motor Liberia</h4>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, <a class="texto_rojo" href="mailto:liberia@cafsa.fi.cr">liberia@cafsa.fi.cr</a></li>
+Lucia Espinoza Ejecutiva de credito / leasing, 2666-0016, <a class="texto_rojo" href="mailto:liberia@cafsa.fi.cr">liberia@cafsa.fi.cr</a></li>
  	<li>Dirección:
 De la entrada principal de Liberia 100 m. norte.</li>
 </ul>
@@ -123,7 +124,7 @@ Automotriz/ NASA</h4>
  	<li>Tel: 2523-5043</li>
  	<li>Fax: 2523-5023</li>
  	<li>Promotora:
-Wilser Barquero, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">automotriz@cafsa.fi.cr</a></li>
+Wilser Barquero Ejectivo de Credito / Leasing, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">automotriz@cafsa.fi.cr</a></li>
  	<li>Dirección:
 La Uruca, contiguo al puente del Río Torres.</li>
 </ul>
@@ -136,7 +137,7 @@ Disitali</h4>
  	<li>Tel: 2547-5900</li>
  	<li>Fax:</li>
  	<li>Promotora:
-Wilser Barquero, 2523-5043, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">wbarquero@cafsa.fi.cr</a></li>
+Yanisa Gutierrez Ejecutiva de credito / leasing, 2547-5910, <a class="texto_rojo" href="mailto:ygutierrez@cafsa.fi.cr">ygutierrez@cafsa.fi.cr</a></li>
  	<li>Dirección:
 La Uruca, 100 metros este de la plaza de deportes.</li>
 </ul>
@@ -160,7 +161,7 @@ De la entrada principal de Liberia 100 m. noe.</li>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Luis Alejando Araya Ejectivo de Credito / Leasing, 6019-8674, <a class="texto_rojo" href="mailto:Laraya@cafsa.fi.cr">Laraya@cafsa.fi.cr</a></li>
  	<li>Dirección:
 De la entrada principal de Liberia 100 m. noe.</li>
 </ul>
