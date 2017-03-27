@@ -18,13 +18,10 @@ qode_show-sidebar:
 [vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#1e1e1e" css_animation="" el_class="preguntas-section"][vc_column el_class="regulatciones-banner"][vc_column_text el_class="top-header"]<span class="colortext">PREGUNTAS</span> <span class="require">FRECUENTES</span>
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" el_class="preguntas-section tabs-images"][vc_column width="1/3" el_class="tabs-image tab-1"][vc_column_text el_class=".tabs-icon1"][/vc_column_text][vc_column_text el_class="tab-1-click"]
 <p style="text-align: center;"><a href="#">CRÉDITO</a></p>
-
 [/vc_column_text][/vc_column][vc_column width="1/3" el_class="tabs-image tab-2"][vc_column_text el_class=".tabs-icon2"][/vc_column_text][vc_column_text el_class="tab-2-click"]
 <p style="text-align: center;"><a href="#">ARRENDAMIENTO</a></p>
-
 [/vc_column_text][/vc_column][vc_column width="1/3" el_class="tabs-image tab-3"][vc_column_text el_class=".tabs-icon3"][/vc_column_text][vc_column_text el_class="tab-3-click"]
-<p style="text-align: center;"><a href="#">INVERSIONES DE AHORRO</a></p>
-
+<p style="text-align: center;"><a href="#">INVERSIONES Y PLANES DE AHORRO</a></p>
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" el_class="preguntas-section-content tab-section-content-1"][vc_column el_class="tabs-image tab-content-1"][vc_accordion active_tab="1" style="toggle"][vc_accordion_tab title="1. ¿Ustedes realizan todo tipo de préstamos?"][vc_column_text]Los préstamos que otorgamos son para el financiamiento de vehículos o artículos complementarios comercializados por las agencias donde Grupo Financiero CAFSA tiene presencia.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="2. ¿Financian la compra de vehículos en cualquier agencia del país?"][vc_column_text]No, únicamente financiamos vehículos que se encuentren en las agencias donde Grupo Financiero CAFSA tiene presencia, tales como Purdy Motor, Nacional Automotriz, Automotriz, Disitali y Cori Motors de Centroamérica.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="3. ¿Cuanto dura el proceso de aprobación de un financiamiento?"][vc_column_text]Si todos los requisitos solicitados se presentan completos un promedio de 24 horas para crédito de vehículos, y en caso de ser un CrediCAFSA 2 horas aproximadamente.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="4. ¿Cuales son los requisitos que se deben de presentar para la aprobación de un crédito?"][vc_column_text]Si es persona física: solicitud de crédito llena, copia de cédula de identidad vigente, constancia de salario y orden patronal para asalariados o en su defecto CPA y estados de cuenta de los últimos 3 meses.
 
 &nbsp;
@@ -39,31 +36,31 @@ Para realizar el pago tiene a disposición:
 
 a)Cajas autorizadas para recibir efectivo o cheque
 <ul>
-	<li>Oficinas Centrales, Avenida Escazú, Torre Lexus, piso #3</li>
-	<li>Purdy Motor, Paseo Colón.</li>
-	<li>Ciudad Toyota (La Uruca).</li>
-	<li>San Carlos.</li>
-	<li>Pérez Zeledón.</li>
+ 	<li>Oficinas Centrales, Avenida Escazú, Torre Lexus, piso #3</li>
+ 	<li>Purdy Motor, Paseo Colón.</li>
+ 	<li>Ciudad Toyota (La Uruca).</li>
+ 	<li>San Carlos.</li>
+ 	<li>Pérez Zeledón.</li>
 </ul>
 b)Transferencia Electrónica de Fondos y depósito bancario (sugerimos un hipervínculo con las cuentas); Debe enviar el comprobante al correo pagos@cafsa.fi.cr[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="13. El no realizar el pago en la fecha establecida en el contrato, ¿Afecta el monto de mi cuota?"][vc_column_text]
 <ul>
-	<li>Sí. A partir del día siguiente al vencimiento se realiza el cobro de intereses moratorios y al quinto día natural una multa adicional.</li>
-	<li>Además de afectar su récord crediticio en la SUGEF.</li>
+ 	<li>Sí. A partir del día siguiente al vencimiento se realiza el cobro de intereses moratorios y al quinto día natural una multa adicional.</li>
+ 	<li>Además de afectar su récord crediticio en la SUGEF.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="14. ¿Cuál es el trámite para actualizar el valor de mi vehículo?"][vc_column_text]Se requiere:
 <ul>
-	<li>El duplicado de la póliza</li>
-	<li>Carta valor de mercado (en la agencia correspondiente)</li>
-	<li>Presentar los documentos y solicitar el trámite a su ejecutivo de formalización.</li>
+ 	<li>El duplicado de la póliza</li>
+ 	<li>Carta valor de mercado (en la agencia correspondiente)</li>
+ 	<li>Presentar los documentos y solicitar el trámite a su ejecutivo de formalización.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="15. Requisitos para la exclusión de póliza de seguro."][vc_column_text]
 <ul>
-	<li>Lo debe realizar el titular de la operación y el asegurado ante la Comercializadora de Seguros.</li>
-	<li>Presentar copia de la póliza de seguros donde se indica el N° de póliza y la acreencia prendaria a favor de Financiera CAFSA en un 100%.</li>
-	<li>Presentar copia de recibo el cual debe detallar el pago de la póliza de seguro (tiempo definido por la Administración).</li>
-	<li>Presentar solicitud de seguro completa, con las firmas del tomador de la póliza y el Agente de Seguros responsables.</li>
-	<li>La operación debe poseer la cuota vigente cancelada del mes en que se realiza el trámite.</li>
-	<li>Presentar copia del documento de identificación.</li>
+ 	<li>Lo debe realizar el titular de la operación y el asegurado ante la Comercializadora de Seguros.</li>
+ 	<li>Presentar copia de la póliza de seguros donde se indica el N° de póliza y la acreencia prendaria a favor de Financiera CAFSA en un 100%.</li>
+ 	<li>Presentar copia de recibo el cual debe detallar el pago de la póliza de seguro (tiempo definido por la Administración).</li>
+ 	<li>Presentar solicitud de seguro completa, con las firmas del tomador de la póliza y el Agente de Seguros responsables.</li>
+ 	<li>La operación debe poseer la cuota vigente cancelada del mes en que se realiza el trámite.</li>
+ 	<li>Presentar copia del documento de identificación.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="16. ¿Que hacer en caso de accidente"][vc_column_text]Si usted es cliente de Financiera CAFSA S.A. realice lo siguiente:
 
@@ -73,30 +70,30 @@ Comuníquese con la aseguradora correspondiente al seguro de su vehículo a los 
 
 &nbsp;
 <ul>
-	<li>Instituto Nacional de Seguros Tel: 800-800-8000.</li>
-	<li>MAPFRE: 8000627373.</li>
-	<li>Qualitas Tel: 2505-3900.</li>
+ 	<li>Instituto Nacional de Seguros Tel: 800-800-8000.</li>
+ 	<li>MAPFRE: 8000627373.</li>
+ 	<li>Qualitas Tel: 2505-3900.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="17. ¿A qué se debe que mi cuota pueda variar?"][vc_column_text]Si su cuota varía en un mes alrededor de $10, esto puede deberse al diferencial cambiario; pero si es mayor puede deberse a la pérdida de bonificación ante lo cual debe comunicarse directamente con su Comercializadora de Seguros.
 
 Dudas con respecto a coberturas, números de póliza, entre otros puede hacerlo a través de los siguientes números de teléfono:
 <ul>
-	<li>Instituto Nacional de Seguros: Tel: 2246-0800, ext: 744.</li>
-	<li>MAPFRE: Tel: 8000627373.</li>
-	<li>Qualitas: Tel: 2505-3900.</li>
-	<li>Purdy Seguros: Tel:2519-7885.</li>
+ 	<li>Instituto Nacional de Seguros: Tel: 2246-0800, ext: 744.</li>
+ 	<li>MAPFRE: Tel: 8000627373.</li>
+ 	<li>Qualitas: Tel: 2505-3900.</li>
+ 	<li>Purdy Seguros: Tel:2519-7885.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="18. ¿Cual es el proceso de Liberación de Prendas?"][vc_column_text]Este trámite lo podrá realizar a través de los abogados de CAFSA o por medio de su abogado.
 
 Si decide hacerlo con CAFSA los requisitos son los siguientes:
 <ul>
-	<li>Cancelar el valor del trámite ($150) en las cajas ubicadas en las Agencias donde CAFSA posee presencia, o si lo desea hacer depósito en alguna de las cuentas de pago.</li>
-	<li>Presentarse ante el Promotor de Negocios o en Oficinas Centrales, y entregar el recibo que compruebe el pago del trámite.</li>
-	<li>Este trámite puede tardar alrededor de un mes, dependiendo del Registro Nacional.</li>
+ 	<li>Cancelar el valor del trámite ($150) en las cajas ubicadas en las Agencias donde CAFSA posee presencia, o si lo desea hacer depósito en alguna de las cuentas de pago.</li>
+ 	<li>Presentarse ante el Promotor de Negocios o en Oficinas Centrales, y entregar el recibo que compruebe el pago del trámite.</li>
+ 	<li>Este trámite puede tardar alrededor de un mes, dependiendo del Registro Nacional.</li>
 </ul>
 Si decide hacerlo con su abogado deberá de realizar lo siguiente:
 <ul>
-	<li>Enviar correo de solicitud de trámite a la dirección liberaprendas@cafsa.fi.cr, donde se explique que desea hacer la cancelación de prenda, datos de la persona quien gestionará el trámite, teléfono o correo electrónico para contactarlo y darle las instrucciones a seguir.</li>
+ 	<li>Enviar correo de solicitud de trámite a la dirección liberaprendas@cafsa.fi.cr, donde se explique que desea hacer la cancelación de prenda, datos de la persona quien gestionará el trámite, teléfono o correo electrónico para contactarlo y darle las instrucciones a seguir.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" el_class="preguntas-section-content tab-section-content-2"][vc_column el_class="tabs-image tab-content-2"][vc_accordion active_tab="1" style="toggle"][vc_accordion_tab title="1. ¿Dónde puedo pagar mi cuota de arrendamiento?"][vc_column_text]En las agencias donde Grupo Financiero CAFSA tiene presencia.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="2. ¿Tipo de cambio a utilizar para enviar mi pago en colones?"][vc_column_text]Tipo de cambio vigente en Arrendadora CAFSA (la cotización de tipo de cambio se ajusta a las condiciones de mercado)[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="3. ¿Qué debo hacer en caso de robo o accidente?"][vc_column_text]Llamar al tránsito y al INS y reportar el siniestro, posteriormente llamar a Arrendadora CAFSA, al número telefónico 2547-5513, reportar el caso, y suministrar toda la documentación correspondiente para iniciar el proceso de levantamiento del gravamen y reparación del bien si corresponde.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="4. ¿En caso de choque dónde debo reparar mi vehículo?"][vc_column_text]Todos los vehículos de nuestra flota se deben reparar en Purdy Auto, previa coordinación con la Arrendadora, al número telefónico 2547-5513.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="5. ¿Qué tipo de vehículos puedo adquirir por arrendamiento?"][vc_column_text]Todos aquellos particulares y de trabajo distribuidos en las agencias donde Grupo Financiero CAFSA tiene presencia (Grupo Purdy Motor, LEXUS, NASA, Automotriz, Disitali).[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="6. ¿Qué rubros incluye la cuota de mantenimiento?"][vc_column_text]Normalmente incluye el pago por uso del vehículo, seguros y dispositivo rastreo, sólo en algunos casos que están bajo programas especiales incluirá también el costo de mantenimiento preventivo para un determinado kilometraje.[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="7. ¿Qué trámite debo hacer si quiero sacar el vehículo del país?"][vc_column_text]
 <table>
@@ -180,27 +177,27 @@ Puede descargar el detalle de esta ley presionando sobre éste enlace...[/vc_col
 
 a)Cajas autorizadas para recibir efectivo o cheque
 <ul>
-	<li>Oficinas Centrales, Avenida Escazú, Torre Lexus, piso #3</li>
-	<li>Purdy Motor, Paseo Colón.</li>
-	<li>Ciudad Toyota (La Uruca).</li>
-	<li>San Carlos.</li>
-	<li>Pérez Zeledón.</li>
+ 	<li>Oficinas Centrales, Avenida Escazú, Torre Lexus, piso #3</li>
+ 	<li>Purdy Motor, Paseo Colón.</li>
+ 	<li>Ciudad Toyota (La Uruca).</li>
+ 	<li>San Carlos.</li>
+ 	<li>Pérez Zeledón.</li>
 </ul>
 b)Transferencia Electrónica de Fondos y depósito bancario (sugerimos un hipervínculo con las cuentas); Debe enviar el comprobante al correo pagos@cafsa.fi.cr[/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="17. El no realizar el pago en la fecha establecida en el contrato, ¿Afecta el monto de mi cuota?"][vc_column_text]
 <ul>
-	<li>Sí. A partir del día siguiente al vencimiento se realiza el cobro de intereses moratorios y al quinto día natural una multa adicional.</li>
-	<li>Además de afectar su record crediticio en la SUGEF.</li>
+ 	<li>Sí. A partir del día siguiente al vencimiento se realiza el cobro de intereses moratorios y al quinto día natural una multa adicional.</li>
+ 	<li>Además de afectar su record crediticio en la SUGEF.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="18. ¿Cuáles son mis opciones al momento de finalizar mi arrendamiento?"][vc_column_text]
 <ul>
-	<li>Devolver el bien al vencimiento.</li>
-	<li>Adquirir el bien al final del arrendamiento.</li>
-	<li>Renovar el arrendamiento.</li>
+ 	<li>Devolver el bien al vencimiento.</li>
+ 	<li>Adquirir el bien al final del arrendamiento.</li>
+ 	<li>Renovar el arrendamiento.</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="19. Cuál es el trámite para el finiquito / renovación de mi contrato? ¿Con cuánto tiempo de anticipación se debe gestionar?"][vc_column_text]
 <ul>
-	<li>Si desea adquirir o devolver el bien al finalizar el arrendamiento puede comunicarse al teléfono 2547-5500 con el departamento de formalización de Arrendadora.</li>
-	<li>Renovar bajo las mismas condiciones, puede contactar al ejecutivo de formalización con quién gestionó su arrendamiento</li>
+ 	<li>Si desea adquirir o devolver el bien al finalizar el arrendamiento puede comunicarse al teléfono 2547-5500 con el departamento de formalización de Arrendadora.</li>
+ 	<li>Renovar bajo las mismas condiciones, puede contactar al ejecutivo de formalización con quién gestionó su arrendamiento</li>
 </ul>
 [/vc_column_text][/vc_accordion_tab][vc_accordion_tab title="20. Que hacer en caso de accidente?"][vc_column_text]Si usted es cliente de Arrendadora CAFSA S.A. realice lo siguiente:
 
