@@ -25,10 +25,10 @@ Corporativo</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][
 Código de Gobierno
 Corporativo</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text el_class="document"]<a href="http://reymisterio.net/cafsa/wp-content/uploads/2017/03/Informe_Gobierno_Corporativo_20121.pdf" target="_blank"><span class="year">Año 2012</span>
 Código de Gobierno
-Corporativo</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="gobierno_section_second" css=".vc_custom_1477925093295{padding-bottom: 20px !important;}"][vc_column_inner width="1/4"][vc_column_text el_class="document"]<span class="year">Año 2015</span>
+Corporativo</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="gobierno_section_second" css=".vc_custom_1477925093295{padding-bottom: 20px !important;}"][vc_column_inner width="1/4"][vc_column_text el_class="document"]<a href="http://reymisterio.net/cafsa/wp-content/uploads/2017/03/Informe_Gobierno_Corporativo_20121.pdf" target="_blank"><span class="year">Año 2011</span>
 Código de Gobierno
-Corporativo[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text el_class="document"]<span class="year">Año 2015</span>
+Corporativo</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text el_class="document"]<a href="http://reymisterio.net/cafsa/wp-content/uploads/2017/03/Informe_Gobierno_Corporativo_20101.pdf" target="_blank"><span class="year">Año 2010</span>
 Código de Gobierno
-Corporativo[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text el_class="document"]<span class="year">Año 2015</span>
+Corporativo</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text el_class="document"]<a href="http://reymisterio.net/cafsa/wp-content/uploads/2017/03/Informe_Gobierno_Corporativo_20091.pdf" target="_blank"><span class="year">Año 2019</span>
 Código de Gobierno
-Corporativo[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
+Corporativo</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
