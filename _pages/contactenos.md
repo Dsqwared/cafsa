@@ -56,7 +56,7 @@ Paseo Colón</h4>
  	<li>Fax: 2255-0826</li>
  	<li>Promotora Autos Nuevos:
 Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:nuevospaseocolon@cafsa.fi.cr">nuevospaseocolon@cafsa.fi.cr</a>
-Promotor Autos Usados: Cristopher Solano, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
+Cristopher Solano, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Paseo Colón, calle 34-36.</li>
 </ul>
