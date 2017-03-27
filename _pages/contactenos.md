@@ -66,12 +66,12 @@ Pérez Zeledón</h4>
 [/vc_column_text][unordered_list style="circle" animate="no"]
 <ul>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
- 	<li>Tel: 2666-0016 ext: 5460</li>
- 	<li>Fax: 2666-2695</li>
+ 	<li>Tel: 2771-0907 ext: 5332</li>
+ 	<li>Fax: 2772-3064</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Elvira Barboza, 2771-0907, <a class="texto_rojo" href="mailto:perezzeledon@cafsa.fi.cr">perezzeledon@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+Plaza Monte General.</li>
 </ul>
 [/unordered_list][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="689" qode_css_animation=""][vc_column_text]
 <h4>Sucursal Purdy Motor
@@ -79,12 +79,14 @@ Ciudad Toyota</h4>
 [/vc_column_text][unordered_list style="circle" animate="no"]
 <ul>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
- 	<li>Tel: 2666-0016 ext: 5460</li>
- 	<li>Fax: 2666-2695</li>
+ 	<li>Tel: 2519-7777 ext: 734</li>
+ 	<li>Fax: 2518-7778</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+<a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">Alonso Cervantes, 2519-7734, </a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
+Alonso Cervantes, 2519-7952, </a><a class="texto_rojo" href="mailto:ciudadtoyota@cafsa.fi.cr">ciudadtoyota@cafsa.fi.cr</a><a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">
+</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+200 mts hacia este de la Pozuelo, la Uruca.</li>
 </ul>
 [/unordered_list][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="690" qode_css_animation=""][vc_column_text]
 <h4>Sucursal Purdy Motor
@@ -92,12 +94,12 @@ San Carlos</h4>
 [/vc_column_text][unordered_list style="circle" animate="no"]
 <ul>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
- 	<li>Tel: 2666-0016 ext: 5460</li>
- 	<li>Fax: 2666-2695</li>
+ 	<li>Tel: 2460-1638</li>
+ 	<li>Fax: 2460-6446</li>
  	<li>Promotora:
-Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
+Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:sancarlos@cafsa.fi.cr">sancarlos@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+200 m. sur del parque.</li>
 </ul>
 [/unordered_list][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="image-with-toggle"][vc_column_inner width="1/3"][vc_single_image image="691" qode_css_animation=""][vc_column_text]
 <h4>Sucursal Purdy
