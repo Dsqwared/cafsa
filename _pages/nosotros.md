@@ -24,13 +24,19 @@ Somos un Grupo Financiero especializado en el financiamiento o arrendamiento de 
 Contamos con más de 40 años de experiencia en el mercado y con ello la satisfacción de miles de clientes servidos en todo el país.[/qode_banner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="under_banner nosotros-section"][vc_column][vc_column_text el_class="unic_title justify-text"]<b>Antecedentes</b>
 Corporación CAFSA, S.A. es la tenedora de acciones de un grupo financiero denominado CAFSA, el cual está debidamente registrado ante el Banco Central de Costa Rica.
 
+
 Su origen como Grupo Financiero, data del año 2001, cuando se decidió complementar los servicios de financiamiento por medio de créditos prendarios a través de Financiera CAFSA y contratos de arrendamiento operativo mediante Arrendadora CAFSA.
+
 
 Los orígenes del Grupo Financiero CAFSA, se remontan al año 1982, fecha en la que se creó la empresa Financiera CAFSA S.A. Desde su fundación ha sido pionera en otorgar servicios de financiamiento, bajo el esquema de descuento de prendas.
 
+
 Nuestra principal fuente de recursos es la captación por medio de certificados de depósito a plazo. Financiera CAFSA S.A. está suscrita a la supervisión de la Superintendencia General de Entidades Financieras de la República de Costa Rica (SUGEF), por tanto, sus valores pueden transarse por medio de la Bolsa Nacional de Valores.
 
+
 Nuestra evolución, se presenta a partir del año 2001, cuando el mercado financiero marcó un cambio en la estrategia de comercialización de crédito, creando un departamento de crédito que incluye promotores de crédito con presencia en cada uno de los puntos de venta de Purdy Motor, Automotriz, Nacional Automotriz, Disitali y Cori Motors de Centroamérica.
+
+
 De igual forma, el incremento de la competencia obligó a la administración a buscar nuevas fuentes de fondeo. Esto le permitió en el año 2002 convertirse en la primera empresa financiera no bancaria en recibir un crédito del Banco Centroamericano de Integración Económica.[/vc_column_text][vc_column_text el_class="unic_title"]<b>Junta Directiva</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Amadeo Quirós
 Ramos de Anaya</span>
 <span class="post">Presidente</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Mauricio
