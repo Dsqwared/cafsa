@@ -25,9 +25,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent iaculis auctor
 Nulla ullamcorper eget enim ac auctor.
 - Donec dictum lacus in nisi fermentum,
 - In vestibulum erat scelerisque.
-- Nam vel dignissim magna. Nullam vel tellus purus[/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="trabajo-section"][vc_column][vc_column_text]<b>Área de Servicios</b>[/vc_column_text][vc_column_text el_class="oportunid"]3 Oportunidades[/vc_column_text][vc_accordion active_tab="false" style="toggle"][vc_accordion_tab title="Más Información"][vc_column_text]<strong>Contador</strong>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent iaculis auctor ligula, vitae auctor magna porttitor sed.
-Nulla ullamcorper eget enim ac auctor.
-- Donec dictum lacus in nisi fermentum,
-- In vestibulum erat scelerisque.
-- Nam vel dignissim magna. Nullam vel tellus purus[/vc_column_text][/vc_accordion_tab][/vc_accordion][vc_empty_space][vc_column_text el_class="icon_text trabajo_title"]<strong>Envíamos tu CV a pzeledon@cafsa.fi.cr</strong>[/vc_column_text][/vc_column][/vc_row]
+- Nam vel dignissim magna. Nullam vel tellus purus[/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="trabajo-section"][vc_column][vc_empty_space][vc_column_text el_class="icon_text trabajo_title"]<strong>Envíamos tu CV a pzeledon@cafsa.fi.cr</strong>[/vc_column_text][/vc_column][/vc_row]
