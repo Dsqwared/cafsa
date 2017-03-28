@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent iaculis auctor
 Nulla ullamcorper eget enim ac auctor.
 - Donec dictum lacus in nisi fermentum,
 - In vestibulum erat scelerisque.
-- Nam vel dignissim magna. Nullam vel tellus purus[/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="trabajo-section"][vc_column][vc_column_text]<b>Departamento contable</b>[/vc_column_text][vc_column_text el_class="oportunid"]1 Oportunidad[/vc_column_text][vc_accordion active_tab="false" style="toggle"][vc_accordion_tab title="Más Información"][vc_column_text]<strong>Contador</strong>
+- Nam vel dignissim magna. Nullam vel tellus purus[/vc_column_text][/vc_accordion_tab][/vc_accordion][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="trabajo-section"][vc_column][vc_column_text]<b>Area de Credito</b>[/vc_column_text][vc_column_text el_class="oportunid"]1 Oportunidad[/vc_column_text][vc_accordion active_tab="false" style="toggle"][vc_accordion_tab title="Más Información"][vc_column_text]<strong>Contador</strong>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent iaculis auctor ligula, vitae auctor magna porttitor sed.
 Nulla ullamcorper eget enim ac auctor.
 - Donec dictum lacus in nisi fermentum,
