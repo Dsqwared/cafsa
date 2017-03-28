@@ -35,7 +35,7 @@ Entregar el carro actual y llevarse uno nuevo igual pagando aproximadamente lo m
 
 Entregar el carro actual y le devolvemos el deposito en garantía.
 
-El beneficio más importante es que puede deducir de impuestos el 100% de su cuota, así́ que dependiendo de la carga impositiva en que usted se encuentre, así́ será́ el beneficio final que usted obtendrá́ por el uso del vehículo[/vc_column_text][/vc_tab][vc_tab title="Purdy Renting" tab_id="1477479599462-0-0"][vc_column_text]Es un alquiler de vehículo a plazos que van de los 36 a los 60 meses. La cuota incluye el alquiler, el seguro, mantenimiento, vehículo sustituto, marchamos y llantas ente otros.
+El beneficio más importante es que puede deducir de impuestos el 100% de su cuota, así que dependiendo de la carga impositiva en que usted se encuentre, así será el beneficio final que usted obtendrá por el uso del vehículo[/vc_column_text][/vc_tab][vc_tab title="Purdy Renting" tab_id="1477479599462-0-0"][vc_column_text]Es un alquiler de vehículo a plazos que van de los 36 a los 60 meses. La cuota incluye el alquiler, el seguro, mantenimiento, vehículo sustituto, marchamos y llantas ente otros.
 
 El beneficio más importante es que puede deducir de impuestos el 100% de su cuota, así que dependiendo de la carga impositiva en que usted se encuentre así será́ el beneficio final que usted obtendrá́ por e uso del vehículo.
 
