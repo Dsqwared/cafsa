@@ -57,8 +57,7 @@ Paseo Colón</h4>
  	<li>Tel: 2287-4200 ext: 262-175</li>
  	<li>Fax: 2255-0826</li>
  	<li>Ejecutivo de Crédito:
-Veronica Bermudez, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
- 	<li>Ejecutivo de Leasing:
+Veronica Bermudez, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a>Ejecutivo de Leasing:
 Elvira Barboza, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Paseo Colón, calle 34-36.</li>
