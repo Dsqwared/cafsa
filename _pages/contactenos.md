@@ -28,7 +28,7 @@ Lexus</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 4000-5501  ext: 5485</li>
  	<li>Fax: 4000-5555</li>
- 	<li>Ejecutivo de negocio:
+ 	<li>Ejecutivo de Crédito | Leasing:
 Hanier Madrigal, 4000-5501 ext 5485, <a class="texto_rojo" href="mailto:lexus@cafsa.fi.cr">lexus@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Torre Lexus Avenida Escazú, 1 piso</li>
@@ -41,8 +41,10 @@ Zapote</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2527-0000</li>
  	<li>Fax: 2225-5887</li>
- 	<li>Ejecutivo de negocio:
-Gabriel Peña, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Credito:
+Deiby Steller, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Leasing:
+Fabian Meza, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a></li>
  	<li>Dirección:
 100 metros este de la rotonda de las Garantías Sociales, Zapote.</li>
 </ul>
@@ -54,9 +56,10 @@ Paseo Colón</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2287-4200 ext: 262-175</li>
  	<li>Fax: 2255-0826</li>
- 	<li>Ejecutivo de negocio:
-Autos Nuevos - Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:nuevospaseocolon@cafsa.fi.cr">nuevospaseocolon@cafsa.fi.cr</a>
-Autos Usados - Cristopher Solano, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Crédito:
+Veronica Bermudez, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Leasing:
+Elvira Barboza, 2287-4175, <a class="texto_rojo" href="mailto:usadospaseocolon@cafsa.fi.cr">usadospaseocolon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Paseo Colón, calle 34-36.</li>
 </ul>
@@ -68,7 +71,7 @@ Pérez Zeledón</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2771-0907 ext: 5332</li>
  	<li>Fax: 2772-3064</li>
- 	<li>Ejecutivo de negocio:
+ 	<li>Ejecutivo de Crédito | Leasing:
 Elvira Barboda 2771-0907, <a class="texto_rojo" href="mailto:perezzeledon@cafsa.fi.cr">perezzeledon@cafsa.fi.cr</a></li>
  	<li>Dirección:
 Plaza Monte General.</li>
@@ -81,9 +84,10 @@ Ciudad Toyota</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2519-7777 ext: 734</li>
  	<li>Fax: 2518-7778</li>
- 	<li>Ejecutivo de negocio:
-Purdy trabajo - Alonso Cervantes, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a>
-Ciudad Toyota - Alonso Cervantes, 2519-7952, <a class="texto_rojo" href="mailto:ciudadtoyota@cafsa.fi.cr">ciudadtoyota@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Crédito:
+Purdy trabajo - Alonso Cervantes, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a></li>
+ 	<li>Ejecutiva de Leasing:
+Azucena Prado, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a></li>
  	<li>Dirección:
 200 mts hacia este de la Pozuelo, la Uruca.</li>
 </ul>
@@ -95,8 +99,8 @@ San Carlos</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2460-1638</li>
  	<li>Fax: 2460-6446</li>
- 	<li>Ejecutivo de negocio:
-Pamela Bustos, 2287-4262, <a class="texto_rojo" href="mailto:sancarlos@cafsa.fi.cr">sancarlos@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Crédito | Leasing:
+Maria Mendez, 2287-4262, <a class="texto_rojo" href="mailto:sancarlos@cafsa.fi.cr">sancarlos@cafsa.fi.cr</a></li>
  	<li>Dirección:
 200 m. sur del parque.</li>
 </ul>
@@ -108,7 +112,7 @@ Motor Liberia</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
- 	<li>Ejecutivo de negocio:
+ 	<li>Ejecutivo de Crédito | Leasing:
 Lucia Espinoza, 2666-0016, <a class="texto_rojo" href="mailto:liberia@cafsa.fi.cr">liberia@cafsa.fi.cr</a></li>
  	<li>Dirección:
 De la entrada principal de Liberia 100 m. norte.</li>
@@ -121,7 +125,7 @@ Automotriz/ NASA</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2523-5043</li>
  	<li>Fax: 2523-5023</li>
- 	<li>Ejecutivo de negocio:
+ 	<li>Ejecutivo de Crédito | Leasing:
 Wilser Barquero, <a class="texto_rojo" href="mailto:automotriz@cafsa.fi.cr">automotriz@cafsa.fi.cr</a></li>
  	<li>Dirección:
 La Uruca, contiguo al puente del Río Torres.</li>
@@ -134,8 +138,8 @@ Disitali</h4>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2547-5900</li>
  	<li>Fax:</li>
- 	<li>Ejecutivo de negocio:
-Wilser Barquero, 2523-5043,  <a class="texto_rojo" href="mailto:ygutierrez@cafsa.fi.cr">ygutierrez@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Crédito | Leasing:
+Yanisa Gutierrez , 2523-5043,  <a class="texto_rojo" href="mailto:ygutierrez@cafsa.fi.cr">ygutierrez@cafsa.fi.cr</a></li>
  	<li>Dirección:
 La Uruca, 100 metros este de la plaza de deportes.</li>
 </ul>
@@ -146,7 +150,7 @@ La Uruca, 100 metros este de la plaza de deportes.</li>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
- 	<li>Ejecutivo de negocios:
+ 	<li>Ejecutivo de Crédito | Leasing:
 Lucía Espinoza, 2666-0016, liberia@cafsa.fi.cr</li>
  	<li>Dirección:
 De la entrada principal de Liberia 100 m. noe.</li>
@@ -158,9 +162,9 @@ De la entrada principal de Liberia 100 m. noe.</li>
  	<li>Toyota-Daihatsu-Lexus-Hino</li>
  	<li>Tel: 2666-0016 ext: 5460</li>
  	<li>Fax: 2666-2695</li>
- 	<li>Ejecutivo de negocios:
-Luis Alejando Araya Ejectivo de Credito / Leasing, 6019-8674, <a class="texto_rojo" href="mailto:Laraya@cafsa.fi.cr">Laraya@cafsa.fi.cr</a></li>
+ 	<li>Ejecutivo de Crédito |  Leasing:
+Luis Alejando Araya, 6019-8674, <a class="texto_rojo" href="mailto:Laraya@cafsa.fi.cr">Laraya@cafsa.fi.cr</a></li>
  	<li>Dirección:
-De la entrada principal de Liberia 100 m. noe.</li>
+De la entrada principal de Liberia 100 m. norte.</li>
 </ul>
 [/unordered_list][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
