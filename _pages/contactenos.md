@@ -85,8 +85,8 @@ Ciudad Toyota</h4>
  	<li>Tel: 2519-7777 ext: 734</li>
  	<li>Fax: 2518-7778</li>
  	<li>Ejecutivo de Crédito:
-Purdy trabajo - Alonso Cervantes, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a></li>
- 	<li>Ejecutiva de Leasing:
+Purdy trabajo - Alonso Cervantes, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a>
+Ejecutiva de Leasing:
 Azucena Prado, 2519-7734, <a class="texto_rojo" href="mailto:purdytrabajo@cafsa.fi.cr">purdytrabajo@cafsa.fi.cr</a></li>
  	<li>Dirección:
 200 mts hacia este de la Pozuelo, la Uruca.</li>
