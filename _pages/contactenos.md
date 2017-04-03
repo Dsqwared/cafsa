@@ -42,8 +42,8 @@ Zapote</h4>
  	<li>Tel: 2527-0000</li>
  	<li>Fax: 2225-5887</li>
  	<li>Ejecutivo de Credito:
-Deiby Steller, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a></li>
- 	<li>Ejecutivo de Leasing:
+Deiby Steller, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a>
+Ejecutivo de Leasing:
 Fabian Meza, 2547-5541, <a class="texto_rojo" href="mailto:zapote@cafsa.fi.cr">zapote@cafsa.fi.cr</a></li>
  	<li>Dirección:
 100 metros este de la rotonda de las Garantías Sociales, Zapote.</li>
