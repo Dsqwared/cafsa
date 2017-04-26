@@ -6,7 +6,7 @@ post_date: 2016-10-31 10:20:55
 post_excerpt: ""
 layout: page
 permalink: >
-  http://reymisterio.net/cafsa/estados-financieros/
+  http://74.220.219.106/~cafsafic/estados-financieros/
 published: true
 slide_template:
   - default
