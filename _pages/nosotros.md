@@ -59,7 +59,7 @@ Castro Monge</span>
 <span class="post">Oficial de Control Interno</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Orlando Fonseca</span>
 <span class="post">Oficial de Riesgo</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Alexander Marín</span>
 <span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][vc_column_text el_class="form_conf"]
-<h3>Conformación del Grupo Financiero</h3>
+<h3 style="text-align: center;">Conformación del Grupo Financiero</h3>
 <table>
 <tbody>
 <tr>
