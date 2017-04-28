@@ -59,12 +59,16 @@ Castro Monge</span>
 <span class="post">Oficial de Control Interno</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Orlando Fonseca</span>
 <span class="post">Oficial de Riesgo</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Alexander Marín</span>
 <span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][service_table title_background_type="background_color_type" icon="" icon_size="fa-lg" border="yes" border_width="1" title_background_color="#0a0a0a" content_background_color="#000000"]
-
-Detalle de las empresas
-que integran el GrupoAutoridad Competente de
-SupervisiónPaís de DomicilioCapital Social
 <table>
 <tbody>
+<tr>
+<th>Detalle de las empresas
+que integran el Grupo</th>
+<th>Autoridad Competente de
+Supervisión</th>
+<th>País de Domicilio</th>
+<th>Capital Social</th>
+</tr>
 <tr>
 <td>Corporación CAFSA S.A. (1)</td>
 <td>SUGEF</td>
