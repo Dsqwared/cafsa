@@ -58,7 +58,7 @@ Castro Monge</span>
 <span class="post">Jefe de Tecnologías de Información</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Wilberth Gómez Segura</span>
 <span class="post">Oficial de Control Interno</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Orlando Fonseca</span>
 <span class="post">Oficial de Riesgo</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Alexander Marín</span>
-<span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][service_table title_background_type="background_color_type" icon="" icon_size="fa-lg" border="yes" border_width="1" title_background_color="#0a0a0a" content_background_color="#000000"]
+<span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][vc_column_text]
 <table>
 <tbody>
 <tr>
@@ -92,7 +92,7 @@ financiero costarricense</td>
 </tr>
 </tbody>
 </table>
-[/service_table][/vc_column_inner][/vc_row_inner][vc_single_image image="267" img_size="full" qode_css_animation="" el_class="price_image"][vc_column_text el_class="text_under_price_img"]<b>Firma de auditoría externa</b>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_single_image image="267" img_size="full" qode_css_animation="" el_class="price_image"][vc_column_text el_class="text_under_price_img"]<b>Firma de auditoría externa</b>
 EL GRUPO FINANCIERO CAFSA, comunica al público en general que su funcionamiento fue autorizado por el
 Consejo Nacional de Supervisión del Sistema Financiero, mediante Aículo 21, del Acta de la Sesión 311-2006,
 celebrada el 9 de julio de 2002. La Supervisión de este Grupo o Conglomerado corresponde a la Superintendencia
