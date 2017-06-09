@@ -38,4 +38,3 @@ mfn-page-items:
 mfn-page-items-seo:
   - ""
 ---
-[vc_row][vc_column][/vc_column][/vc_row]
