@@ -30,3 +30,4 @@ mfn-post-hide-title:
 mfn-post-remove-padding:
   - "0"
 ---
+[woocommerce_cart]
