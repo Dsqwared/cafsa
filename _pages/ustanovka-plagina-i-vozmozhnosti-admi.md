@@ -53,7 +53,7 @@ vc_teaser:
 <span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина:</strong></em></span>
 
 [video width="1280" height="720" flv="https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/install.flv"][/video]
-[flv:https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/install.flv image 1280 720 link player]
+[flv:https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/install.flv image 690 388 link player]
 <em><strong>Инструкция по оплате услуг зарегистрированным клиентом:</strong></em>
 
 [video width="1280" height="720" flv="https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/pay_uslugi_zareg.flv"][/video]
