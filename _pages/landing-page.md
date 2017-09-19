@@ -1,7 +1,7 @@
 ---
 ID: 511
 post_title: Landing page
-author: Dsqwared
+author: 123 Симкин
 post_date: 2014-05-03 12:46:27
 post_excerpt: ""
 layout: page
