@@ -46,7 +46,7 @@ mfn-post-remove-padding:
 5. Активировать.
 
 <span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина:</strong></em></span>
-[flv:https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/install.flv image 690 388]
+[embedyt] https://www.youtube.com/watch?v=CEj-OzeAn2M[/embedyt]
 <em><strong>Инструкция по оплате услуг зарегистрированным клиентом:</strong></em>
 
 [flv:https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/pay_uslugi_zareg.flv image 690 388]
