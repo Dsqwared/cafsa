@@ -32,6 +32,16 @@ mfn-post-hide-title:
   - "0"
 mfn-post-remove-padding:
   - "0"
+crfp-total-ratings:
+  - "0"
+crfp-average-rating:
+  - "0"
+ratings_users:
+  - "0"
+ratings_score:
+  - "0"
+ratings_average:
+  - "0"
 ---
 1. Скачиваем архив  с плагином <em><strong>liqpay_wordpress.zip</strong></em> допустим на рабочий стол.
 
@@ -45,8 +55,13 @@ mfn-post-remove-padding:
 
 5. Активировать.
 
-<span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина:</strong></em></span>
+<span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина Liqpay&amp;Wordpress:</strong></em></span>
 [embedyt] https://www.youtube.com/watch?v=CEj-OzeAn2M[/embedyt]
+
+<span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина NovaPoshta&amp;Wordpress:</strong></em></span>
+
+[embedyt] https://www.youtube.com/watch?v=bnjc-PVqVTY[/embedyt]
+
 <em><strong>Инструкция по оплате услуг зарегистрированным клиентом:</strong></em>
 
 [flv:https://pfy.in.ua/liqpay/wp-content/uploads/sites/2/2013/07/pay_uslugi_zareg.flv image 690 388]
