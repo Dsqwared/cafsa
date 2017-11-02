@@ -1,7 +1,7 @@
 ---
 ID: 618
 post_title: 'ОПИСАНИЕ И ПРИОБРЕТЕНИЕ ПЛАГИНА LIQPAY&amp;WORDPRESS'
-author: Dsqwared
+author: 123 Симкин
 post_date: 2014-02-08 02:18:28
 post_excerpt: ""
 layout: page
@@ -72,4 +72,14 @@ mfn-page-items-seo:
     Сразу после оплаты Вам на почту придет письмо с плагином! <span class="button_icon"><i class="icon-attach"></i></span>
     
     
+crfp-total-ratings:
+  - "13"
+crfp-average-rating:
+  - "5"
+ratings_users:
+  - "1"
+ratings_score:
+  - "5"
+ratings_average:
+  - "5"
 ---
