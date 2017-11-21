@@ -12,11 +12,11 @@ permalink: >
   https://pfy.in.ua/liqpay/generatsiya-ttn-nakladnoy-novoypochtyi-dlya-woocommerce/
 published: true
 ratings_users:
-  - "0"
+  - "1"
 ratings_score:
-  - "0"
+  - "5"
 ratings_average:
-  - "0"
+  - "5"
 slide_template:
   - default
 mfn-post-hide-content:
@@ -59,8 +59,13 @@ mfn-post-hide-title:
   - "0"
 mfn-post-remove-padding:
   - "0"
+crfp-total-ratings:
+  - "0"
+crfp-average-rating:
+  - "0"
 ---
 <h1 style="text-align: center;">Плагин в процессе разработки...</h1>
+&nbsp;
 <p style="text-align: center;"><em>Если вы хотите получить оповещение на почту. </em></p>
 <p style="text-align: center;"><em>когда плагин будет закончен, заполните форму ниже.</em></p>
 <p style="text-align: center;">[contact-form-7 id="4625" title="Подписчик"]</p>
