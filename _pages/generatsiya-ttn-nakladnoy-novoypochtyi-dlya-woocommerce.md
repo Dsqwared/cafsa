@@ -60,3 +60,7 @@ mfn-post-hide-title:
 mfn-post-remove-padding:
   - "0"
 ---
+<h1 style="text-align: center;">Плагин в процессе разработки...</h1>
+<p style="text-align: center;"><em>Если вы хотите получить оповещение на почту. </em></p>
+<p style="text-align: center;"><em>когда плагин будет закончен, заполните форму ниже.</em></p>
+<p style="text-align: center;">[contact-form-7 id="4625" title="Подписчик"]</p>
