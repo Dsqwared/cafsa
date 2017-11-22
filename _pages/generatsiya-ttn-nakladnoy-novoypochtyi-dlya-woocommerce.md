@@ -12,9 +12,9 @@ permalink: >
   https://pfy.in.ua/liqpay/generatsiya-ttn-nakladnoy-novoypochtyi-dlya-woocommerce/
 published: true
 ratings_users:
-  - "1"
+  - "18"
 ratings_score:
-  - "5"
+  - "90"
 ratings_average:
   - "5"
 slide_template:
