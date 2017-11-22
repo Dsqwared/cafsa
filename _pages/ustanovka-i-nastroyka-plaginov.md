@@ -1,6 +1,6 @@
 ---
 ID: 4582
-post_title: Установка и настройка
+post_title: 'Установка и настройка Liqpay&#038;WordPress'
 author: Dsqwared
 post_date: 2017-10-28 19:21:37
 post_excerpt: ""
@@ -55,8 +55,6 @@ ratings_average:
 
 <span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина Liqpay&amp;Wordpress:</strong></em></span>
 [embedyt] https://www.youtube.com/watch?v=CEj-OzeAn2M[/embedyt]
-
-&nbsp;
 
 <em><strong>Инструкция по оплате услуг зарегистрированным клиентом:</strong></em>
 
