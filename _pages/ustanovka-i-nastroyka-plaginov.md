@@ -1,9 +1,7 @@
 ---
 ID: 4582
-post_title: >
-  Установка и настройка
-  плагинов
-author: 123 Симкин
+post_title: Установка и настройка
+author: Dsqwared
 post_date: 2017-10-28 19:21:37
 post_excerpt: ""
 layout: page
@@ -37,11 +35,11 @@ crfp-total-ratings:
 crfp-average-rating:
   - "0"
 ratings_users:
-  - "0"
+  - "1"
 ratings_score:
-  - "0"
+  - "5"
 ratings_average:
-  - "0"
+  - "5"
 ---
 1. Скачиваем архив  с плагином <em><strong>liqpay_wordpress.zip</strong></em> допустим на рабочий стол.
 
@@ -58,9 +56,7 @@ ratings_average:
 <span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина Liqpay&amp;Wordpress:</strong></em></span>
 [embedyt] https://www.youtube.com/watch?v=CEj-OzeAn2M[/embedyt]
 
-<span style="font-size: large; text-decoration: underline;"><em><strong>Инструкция по установки плагина NovaPoshta&amp;Wordpress:</strong></em></span>
-
-[embedyt] https://www.youtube.com/watch?v=bnjc-PVqVTY[/embedyt]
+&nbsp;
 
 <em><strong>Инструкция по оплате услуг зарегистрированным клиентом:</strong></em>
 
