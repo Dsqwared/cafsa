@@ -23,7 +23,7 @@ mfn-post-slider-layer:
 mfn-meta-seo-title:
   - 'Инструкция по установки плагина NovaPoshta&Wordpress'
 mfn-meta-seo-keywords:
-  - 'Инструкци, установка, плагина, NovaPoshta&Wordpress, Новая почта, Wordpress? '
+  - 'Инструкци, установка, плагина, NovaPoshta&Wordpress, Новая почта, Wordpress, Woocommerce'
 mfn-post-menu:
   - "0"
 mfn-post-one-page:
@@ -40,8 +40,16 @@ ratings_score:
   - "0"
 ratings_average:
   - "0"
+crfp-total-ratings:
+  - "0"
+crfp-average-rating:
+  - "0"
+mfn-post-layout:
+  - left-sidebar
+mfn-meta-seo-description:
+  - 'Инструкция по установки плагина NovaPoshta&Wordpress'
 ---
-1. Скачиваем архив  с плагином wc_novaposhta<em><strong>.zip</strong></em> допустим на рабочий стол.
+1. Скачиваем архив  с плагином <strong>wc_novaposhta.zip</strong> допустим на рабочий стол.
 
 1. Заходим в админку.
 
