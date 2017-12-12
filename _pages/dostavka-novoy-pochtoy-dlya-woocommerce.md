@@ -141,4 +141,14 @@ mfn-meta-seo-keywords:
     доставки
 mfn-post-layout:
   - left-sidebar
+crfp-total-ratings:
+  - "40"
+crfp-average-rating:
+  - "5"
+ratings_users:
+  - "14"
+ratings_score:
+  - "70"
+ratings_average:
+  - "5"
 ---
