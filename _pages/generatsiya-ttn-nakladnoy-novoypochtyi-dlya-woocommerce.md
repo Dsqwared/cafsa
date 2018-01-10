@@ -90,4 +90,3 @@ mfn-page-items-seo:
     
     
 ---
-[pricing_table]
