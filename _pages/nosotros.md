@@ -86,13 +86,13 @@ Supervisión</th>
 <td>Corporación CAFSA S.A. <sup>(1)</sup></td>
 <td>SUGEF</td>
 <td>Costa Rica</td>
-<td>¢10.381.000.000</td>
+<td>¢13,593,185,000</td>
 </tr>
 <tr>
 <td>Financiera CAFSA S.A.</td>
 <td>SUGEF</td>
 <td>Costa Rica</td>
-<td>¢5.564.000.000</td>
+<td>¢6,857,955,000</td>
 </tr>
 <tr>
 <td>Arrendadora CAFSA S.A.</td>
@@ -101,7 +101,7 @@ fiscalización de ningún
 órgano de supervisión
 financiero costarricense</td>
 <td>Costa Rica</td>
-<td>¢4.795.260.488</td>
+<td>¢6,713,490,488</td>
 </tr>
 </tbody>
 </table>
