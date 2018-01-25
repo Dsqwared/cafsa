@@ -53,7 +53,9 @@ Quirós Tanzi</span>
 Aguiar Trigo</span>
 <span class="post">Fiscal</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Jesús
 Castro Monge</span>
-<span class="post">Vocal</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Ejecutivos</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Luis Ángel González Magán</span>
+<span class="post">Vocal</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Jose Gerardo
+Corrales Brenes</span>
+<span class="post">Vocal 2</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Ejecutivos</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Luis Ángel González Magán</span>
 <span class="post">Gerente General</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Christian Soto Campos</span>
 <span class="post">Gerente de Innovación Corporativo</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Eva Rivas Segura</span>
 <span class="post">Gerente Financiero</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Fiorella Gould Ávalos</span>
