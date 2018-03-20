@@ -4,7 +4,7 @@ post_title: Nosotros
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://www.cafsa.fi.cr/nosotros/
+permalink: http://localhost/cafsa/nosotros/
 published: true
 post_date: 2016-10-21 13:32:04
 ---
@@ -53,9 +53,7 @@ Quirós Tanzi</span>
 Aguiar Trigo</span>
 <span class="post">Fiscal</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Jesús
 Castro Monge</span>
-<span class="post">Vocal</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Jose Gerardo
-Corrales Brenes</span>
-<span class="post">Vocal 2</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Ejecutivos</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Luis Ángel González Magán</span>
+<span class="post">Vocal</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Ejecutivos</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Luis Ángel González Magán</span>
 <span class="post">Gerente General</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Christian Soto Campos</span>
 <span class="post">Gerente de Innovación Corporativo</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Eva Rivas Segura</span>
 <span class="post">Gerente Financiero</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Fiorella Gould Ávalos</span>
@@ -65,11 +63,10 @@ Corrales Brenes</span>
 <span class="post">Jefe de Gestión Humana</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Carlos Villalobos Alpízar</span>
 <span class="post">Jefe de Gestión de Bienes</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Guillermo Monestel Orellana</span>
 <span class="post">Jefe de Cobros</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Luis Aguilar Morales</span>
-<span class="post">Jefe de Tecnologías de Información</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Maycol Fallas Castro</span>
-<span class="post">Jefe de Purdy Card</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Wilberth Gómez Segura</span>
-<span class="post">Oficial de Control Interno</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Orlando Fonseca Morales</span>
-<span class="post">Oficial de Riesgo</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Alexander Marín Rodríguez</span>
-<span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][vc_column_text el_class="form_conf"]
+<span class="post">Jefe de Tecnologías de Información</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Wilberth Gómez Segura</span>
+<span class="post">Oficial de Control Interno</span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][vc_column_text]<span class="name">Orlando Fonseca</span>
+<span class="post">Oficial de Riesgo</span>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="directors"][vc_column_inner width="1/6"][vc_column_text]<span class="name">Alexander Marín</span>
+<span class="post">Oficial de Calidad </span>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="unic_title"]<b>Auditoría Externa</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="estados_section auditados"][vc_column_inner][vc_column_text el_class="form_conf"]
 <h3 style="text-align: center;">Conformación del Grupo Financiero</h3>
 [/vc_column_text][vc_empty_space][vc_column_text el_class="form_conf"]
 <table>
@@ -86,13 +83,13 @@ Supervisión</th>
 <td>Corporación CAFSA S.A. <sup>(1)</sup></td>
 <td>SUGEF</td>
 <td>Costa Rica</td>
-<td>¢13,593,185,000</td>
+<td>¢10.381.000.000</td>
 </tr>
 <tr>
 <td>Financiera CAFSA S.A.</td>
 <td>SUGEF</td>
 <td>Costa Rica</td>
-<td>¢6,857,955,000</td>
+<td>¢5.564.000.000</td>
 </tr>
 <tr>
 <td>Arrendadora CAFSA S.A.</td>
@@ -101,7 +98,7 @@ fiscalización de ningún
 órgano de supervisión
 financiero costarricense</td>
 <td>Costa Rica</td>
-<td>¢6,713,490,488</td>
+<td>¢4.795.260.488</td>
 </tr>
 </tbody>
 </table>
