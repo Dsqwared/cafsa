@@ -8,4 +8,4 @@ permalink: http://localhost/cafsa/purdy-card/
 published: true
 post_date: 2018-03-20 23:23:19
 ---
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#1e1e1e" css_animation=""][vc_column][vc_column_text el_class="top-header"][/vc_column_text][/vc_column][/vc_row]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#1e1e1e" css_animation=""][vc_column][vc_column_text el_class="top-header"]<img class="alignnone size-medium wp-image-1237" src="http://localhost/cafsa/wp-content/uploads/2018/03/logo_purdy-card-2-300x60.png" alt="" width="300" height="60" />[/vc_column_text][/vc_column][/vc_row]
