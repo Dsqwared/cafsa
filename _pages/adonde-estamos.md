@@ -2,18 +2,11 @@
 ID: 33
 post_title: ¿Adónde estamos?
 author: admin
-post_date: 2016-10-21 13:36:43
 post_excerpt: ""
 layout: page
-permalink: >
-  http://reymisterio.net/cafsa/adonde-estamos/
+permalink: http://localhost/cafsa/adonde-estamos/
 published: true
-slide_template:
-  - default
-qode_animate-page-title:
-  - 'no'
-qode_show-sidebar:
-  - default
+post_date: 2016-10-21 13:36:43
 ---
 [vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#1a1a1a" css_animation="" el_class="contacts_section"][vc_column][vc_column_text el_class="top-header"]<span class="require">¿Adónde</span><span class="colortext"> estamos?</span>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#333333" css_animation="" el_class="adonde-section"][vc_column][vc_column_text]<b>Sede Central:</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="sede_central"][vc_column_inner width="1/3"][image_with_text image="655" title="Teléfono"](506) 2547-5500[/image_with_text][/vc_column_inner][vc_column_inner width="1/3"][image_with_text image="654" title="Fax"]2257-4726[/image_with_text][/vc_column_inner][vc_column_inner width="1/3"][image_with_text image="650" title="Dirección"]Torre Lexus Avenida Escazú, 3 piso.[/image_with_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="sede_central"][vc_column_inner width="1/3"][image_with_text image="657" title="Coordenadas Geográficas"]9°56'21.6N 84°08'32.4W[/image_with_text][/vc_column_inner][vc_column_inner width="1/3"][/vc_column_inner][vc_column_inner width="1/3"][/vc_column_inner][/vc_row_inner][vc_column_text]<b>Agencias:</b>[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" el_class="image-with-toggle"][vc_column_inner width="1/3"][vc_single_image image="660" qode_css_animation=""][vc_column_text el_class="popup1"]
 <h4>Sucursal
