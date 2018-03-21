@@ -20,6 +20,6 @@ post_date: 2018-03-20 23:23:19
 
 I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-[/vc_column_text][/vc_tab][/vc_tabs][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521660598510{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger"]
+[/vc_column_text][/vc_tab][/vc_tabs][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" background_color="#666666" css_animation="" css=".vc_custom_1521674588875{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger"]
 <h2 style="text-align: center;"><span style="color: #333333;">DESCUENTOS</span> EN COMERCIOS</h2>
 [/vc_column_text][/vc_column][/vc_row]
