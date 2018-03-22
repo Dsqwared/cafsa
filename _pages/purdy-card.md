@@ -46,13 +46,23 @@ I am text block. Click edit button to change this text. Lorem ipsum dolor sit am
 <p style="text-align: center;">Lorem Ipsum</p>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521660598510{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger header-border"]
 <h2 style="text-align: center;"><span style="color: #979797;">AUTOGESTIONES </span>MONIBYTE</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521751843529{background-color: #333333 !important;}"][vc_column][vc_tabs style="horizontal_left" el_class="cafsa-tabs"][vc_tab title="¿QUÉ ES?" tab_id="16b91455-8297-5"][/vc_tab][vc_tab title="BENEFICIOS" tab_id="f26b0dd7-9c81-2"][vc_column_text el_class="text-white"]Usted podrá realizar las siguientes gestiones desde su dispositivo celular o computadora a través de un sólo click:[/vc_column_text][/vc_tab][/vc_tabs][unordered_list style="circle" animate="no"]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521751843529{background-color: #333333 !important;}"][vc_column][vc_tabs style="horizontal_left" el_class="cafsa-tabs"][vc_tab title="¿QUÉ ES?" tab_id="16b91455-8297-5"][/vc_tab][vc_tab title="BENEFICIOS" tab_id="f26b0dd7-9c81-2"][vc_column_text el_class="text-white"]Usted podrá realizar las siguientes gestiones desde su dispositivo celular o computadora a través de un sólo click:[/vc_column_text][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation="" css=".vc_custom_1521761953597{margin-top: 20px !important;}" el_class="text-white"][vc_column_inner width="1/2"][vc_column_text el_class="purdy-list"]
 <ul>
- 	<li>Lorem Ipsum</li>
- 	<li>Lorem Ipsum</li>
- 	<li>Lorem Ipsum</li>
+ 	<li>Bloqueo por Pérdida o Robo</li>
+ 	<li>Bloqueo Temporal</li>
+ 	<li>Eliminar Bloqueo Temporal</li>
+ 	<li>Modificar Límite de Crédito</li>
+ 	<li>Modificar Fecha de Corte</li>
 </ul>
-[/unordered_list][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521660598510{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger header-border"]
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text el_class="purdy-list"]
+<ul>
+ 	<li>Reposición de Tarjeta</li>
+ 	<li>Solicitud Tarjetas Adicionales</li>
+ 	<li>Reporte Salida del País</li>
+ 	<li>Redimir Purdy Kilómetros</li>
+ 	<li>Cuotificar Compras</li>
+</ul>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tab][/vc_tabs][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521660598510{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger header-border"]
 <h2 style="text-align: center;"><span style="color: #979797;">CONTROL TOTAL </span>MONIBYTE</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521751843529{background-color: #333333 !important;}"][vc_column][vc_tabs style="horizontal_left" el_class="cafsa-tabs"][vc_tab title="¿QUÉ ES?" tab_id="16b91455-8297-51521751942862"][/vc_tab][vc_tab title="DETALLES" tab_id="f26b0dd7-9c81-21521751942862"][/vc_tab][/vc_tabs][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation="" css=".vc_custom_1521660598510{padding-top: 60px !important;padding-right: 40px !important;padding-bottom: 55px !important;padding-left: 40px !important;background-color: #333333 !important;}"][vc_column el_class="text-center"][vc_column_text el_class="text-bigger header-border"]
 <h2 style="text-align: center;"><span style="color: #979797;">BENEFICIOS </span>VISA</h2>
