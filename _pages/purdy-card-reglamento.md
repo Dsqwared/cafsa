@@ -10,7 +10,7 @@ published: true
 post_date: 2018-04-05 21:13:24
 ---
 [vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column css=".vc_custom_1522963484985{padding-top: 180px !important;padding-right: 85px !important;padding-bottom: 180px !important;padding-left: 85px !important;}"][vc_column_text]
-<h2><b>REGLAMENTO PROMOCIÓN</b></h2>
+<h1><span style="color: #000000;"><b>REGLAMENTO PROMOCIÓN</b></span></h1>
 <b>“¿Cómo te suenan unos días de sol, arena y mar?”</b>
 
 &nbsp;
