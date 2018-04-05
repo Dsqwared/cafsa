@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-05 21:13:24
 ---
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" css_animation=""][vc_column][vc_column_text]<b>REGLAMENTO PROMOCIÓN</b>
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="60" padding_bottom="55" css_animation=""][vc_column][vc_column_text]<b>REGLAMENTO PROMOCIÓN</b>
 
 <b>“¿Cómo te suenan unos días de sol, arena y mar?”</b>
 
