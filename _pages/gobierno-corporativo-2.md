@@ -26,16 +26,16 @@ post_date: 2018-04-09 16:38:31
 [/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302654880{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523304015232{margin-top: 20px !important;}" el_class="text-white"]
 <h2 style="text-align: center;"><a href="http://www.google.com">Estructura de Propiedad</a></h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
-<p style="text-align: center;">Estructura de accionistas.</p>
+<p style="text-align: center;">Consulte la estructura de propiedad.</p>
+[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302669585{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523304288343{margin-top: 20px !important;}" el_class="text-white"]
+<h2 style="text-align: center;"><a href="http://www.google.com">Política de Remuneración</a></h2>
+[/vc_column_text][vc_column_text el_class="text-white"]
+<p style="text-align: center;">Consulte los lineamos generales de remuneración dirigida a Directores y Ejecutivos.</p>
+[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302675920{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523304410150{margin-top: 20px !important;}" el_class="text-white"]
+<h2 style="text-align: center;"><a href="http://www.google.com">Junta Directiva</a></h2>
+[/vc_column_text][vc_column_text el_class="text-white"]
+<p style="text-align: center;">Consulte la conformación y los perfiles de la junta directiva</p>
 [/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302660945{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523302431691{margin-top: 20px !important;}" el_class="text-white"]
-<h2 style="text-align: center;">Código de Gobierno</h2>
-[/vc_column_text][vc_column_text el_class="text-white"]
-<p style="text-align: center;">Consulte nuestros atestados y experiencia de nuestro equipo gerencial.</p>
-[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302669585{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523302445305{margin-top: 20px !important;}" el_class="text-white"]
-<h2 style="text-align: center;">Código de Gobierno</h2>
-[/vc_column_text][vc_column_text el_class="text-white"]
-<p style="text-align: center;">Consulte nuestros atestados y experiencia de nuestro equipo gerencial.</p>
-[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302675920{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523302460536{margin-top: 20px !important;}" el_class="text-white"]
 <h2 style="text-align: center;">Código de Gobierno</h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
 <p style="text-align: center;">Consulte nuestros atestados y experiencia de nuestro equipo gerencial.</p>
