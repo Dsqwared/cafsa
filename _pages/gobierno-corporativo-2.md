@@ -23,7 +23,7 @@ post_date: 2018-04-09 16:38:31
 <h2 style="text-align: center;"><a href="http://www.google.com">Objetivos del Grupo</a></h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
 <p style="text-align: center;">Consulte nuestros atestados y experiencia de nuestro equipo gerencial.</p>
-[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302654880{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" link="http://www.google.com"][vc_column_text css=".vc_custom_1523304015232{margin-top: 20px !important;}" el_class="text-white"]
+[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523302654880{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" qode_hover_animation="darken" link="http://www.google.com"][vc_column_text css=".vc_custom_1523304015232{margin-top: 20px !important;}" el_class="text-white"]
 <h2 style="text-align: center;"><a href="http://www.google.com">Estructura de Propiedad</a></h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
 <p style="text-align: center;">Consulte la estructura de propiedad.</p>
@@ -50,7 +50,7 @@ post_date: 2018-04-09 16:38:31
 [/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523304661961{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" qode_hover_animation="darken" link="http://www.google.com"][vc_column_text css=".vc_custom_1523305507753{margin-top: 20px !important;}" el_class="text-white"]
 <h2 style="text-align: center;"><a href="http://google.com">Información de Eventos Adversos</a></h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
-<p style="text-align: center;">Consulte las principales situaciones que se han materializado o pueden los objetivos de negocio o de la actividad:</p>
+<p style="text-align: center;">Consulte las principales situaciones que se han materializado o pueden perjudicar los objetivos de negocio o de la actividad:</p>
 [/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1523304641323{padding-right: 40px !important;padding-bottom: 60px !important;padding-left: 40px !important;}"][vc_single_image image="1313" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" qode_css_animation="" qode_hover_animation="darken" link="http://www.google.com"][vc_column_text css=".vc_custom_1523305585607{margin-top: 20px !important;}" el_class="text-white"]
 <h2 style="text-align: center;"><a href="http://google.com">Prácticas Diferenciadas de Gobierno</a></h2>
 [/vc_column_text][vc_column_text el_class="text-white"]
